@@ -52,7 +52,7 @@ A curated collection of technical blog posts covering networking fundamentals, G
    [Read article](https://html-with-satya.hashnode.dev/html-tags-and-elements)
 
 2. **CSS Selectors 101: Targeting Elements with Precision**  
-   [Read article](https://css-selectors-with-satya.hashnode.dev/css)
+   [Read article](https://css-selector-with-satya.hashnode.dev/css-selectors-101-targeting-elements-with-precision)
 
 3. **Emmet for HTML: A Beginner’s Guide to Writing Faster Markup**  
    [Read article](https://emmet-with-satya.hashnode.dev/emmet-for-html-a-beginners-guide-to-writing-faster-markup)
