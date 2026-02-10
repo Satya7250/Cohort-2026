@@ -1,37 +1,64 @@
-# Mintlify Landing Page Clone
+# Mintlify Landing Page
 
-This project is a static recreation of the [Mintlify](https://mintlify.com/) landing page. It showcases a modern, dark-themed design focused on documentation platforms for the intelligence age.
+## Description
+This project is a landing page clone of **Mintlify**, a modern documentation platform.  
+It showcases Mintlify’s clean dark-theme design, product positioning, brand trust section, and feature highlights using a static frontend implementation.
 
-## Project Overview
+## Live Demo  
+https://mintlify-sp.vercel.app/
 
-The landing page features:
-- **Hero Section**: A compelling introduction with a call-to-action for users to sign up.
-- **Brand Showcase**: A grid of logos displaying companies that use or support the platform (e.g., Anthropic, Coinbase, Microsoft).
-- **Feature Highlights**: Sections explaining the core value propositions, such as "Built for the intelligence age" and support for LLMs.
-- **Responsive Navigation**: A top navigation bar with links to Resources, Documentation, Pricing, etc.
+---
+
+## Project Structure
+
+<pre>
+Project-2/
+├── index.html
+├── style.css
+├── README.md
+└── assets/
+    ├── logos/
+    ├── icons/
+    └── images/
+</pre>
+
+
+
+
+| File         | Description                             |
+|--------------|-----------------------------------------|
+| `index.html` | Main HTML structure of the landing page |
+| `style.css`  | Styling, layout, and theme colors       |
+| `assets/`    | Logos, icons, and image assets          |
+
+---
+
+## Features
+- Dark-themed modern UI
+- Responsive navigation bar with links
+- Hero section with call-to-action
+- Brand showcase (e.g., Anthropic, Coinbase, Microsoft)
+- Feature highlight sections
+- Clean layout using Flexbox and Grid
+
+---
 
 ## Technologies Used
+- **HTML5** – Semantic page structure  
+- **CSS3** – Layout, styling, Flexbox, and Grid  
 
-- **HTML5**: For structure and semantic markup.
-- **CSS3**: For styling, layout (Flexbox/Grid), and visual effects.
-- **Assets**: SVG and PNG images for logos and icons.
+---
 
-## How to Run
+## Responsiveness
+This project is **partially responsive** and optimized primarily for desktop screens.  
+Some sections may require additional media queries for full mobile support.
 
-1. Clone or download this repository.
-2. Navigate to the `Project-2` directory.
-3. Open `index.html` in your preferred web browser.
+---
 
-## Directory Structure
+## Getting Started
+To run locally:
 
-```
-Project-2/
-├── assets/          # Images and icons used in the project
-├── index.html       # Main HTML file
-├── style.css        # CSS styles
-└── README.md        # Project documentation
-```
-
-## Preview
-
-The project replicates the visual style of the Mintlify website, including its distinct dark mode aesthetic and typography.
+```bash
+git clone https://github.com/Satya7250/Cohort-2026.git
+cd Project-2
+open index.html

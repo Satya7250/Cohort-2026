@@ -5,7 +5,7 @@ This project is a landing page clone of **Cursor**, an AI-powered coding editor.
 It presents the main product highlights, testimonials, features, and download call-to-action using a modern dark-theme design.
 
 ## Live Demo:  
-https://cohort-2026-pi.vercel.app/
+https://cursor-sp.vercel.app/
 
 ---
 
